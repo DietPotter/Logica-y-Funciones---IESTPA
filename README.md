@@ -1,2 +1,2 @@
-# L-gica-y-Funciones---IESTPA
+# Logica-y-Funciones---IESTPA
 Curso de Lógica y Funciones
